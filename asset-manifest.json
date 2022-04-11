@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-weather-app/static/css/main.1b84783b.css",
-    "main.js": "/test-weather-app/static/js/main.7a696204.js",
+    "main.js": "/test-weather-app/static/js/main.bc2ba97c.js",
     "static/js/787.d9312eb8.chunk.js": "/test-weather-app/static/js/787.d9312eb8.chunk.js",
     "static/media/03d.png": "/test-weather-app/static/media/03d.2b459cd4521e3e71b177.png",
     "static/media/03n.png": "/test-weather-app/static/media/03n.2b459cd4521e3e71b177.png",
@@ -23,11 +23,11 @@
     "static/media/50n.png": "/test-weather-app/static/media/50n.c6ef75775cb48997b919.png",
     "index.html": "/test-weather-app/index.html",
     "main.1b84783b.css.map": "/test-weather-app/static/css/main.1b84783b.css.map",
-    "main.7a696204.js.map": "/test-weather-app/static/js/main.7a696204.js.map",
+    "main.bc2ba97c.js.map": "/test-weather-app/static/js/main.bc2ba97c.js.map",
     "787.d9312eb8.chunk.js.map": "/test-weather-app/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b84783b.css",
-    "static/js/main.7a696204.js"
+    "static/js/main.bc2ba97c.js"
   ]
 }
