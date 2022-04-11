@@ -19,6 +19,7 @@ function App() {
     if (localStorage.getItem("username") === null) {
         localStorage.setItem("username", JSON.stringify("Anonymous") as string)
         setUsername(localStorage.getItem("username"))
+        setAskUsername(usernameModalPopup)
     }
 
     const resetAlert = () => {
@@ -83,7 +84,7 @@ function App() {
     }, [])
 
     useEffect(() => {
-        if (username === "Anonymous" || username===null)
+        if (username === "Anonymous")
             setAskUsername(usernameModalPopup)
 
     }, [username])

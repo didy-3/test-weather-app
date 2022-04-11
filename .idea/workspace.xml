@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c43bbe08-ea2f-4171-bdb0-d56959deec76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +58,16 @@
       <recent name="D:\Dasha\web-dev\weather-app-testTask\src\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
-    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:3000/">
+  <component name="RunManager" selected="JavaScript Debug.test-weather-app">
+    <configuration default="true" type="JavascriptDebugType" uri="https://didy-3.github.io/test-weather-app/">
+      <mapping url="https://didy-3.github.io/test-weather-app" local-file="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="test-weather-app" type="JavascriptDebugType" nameIsGenerated="true" uri="https://didy-3.github.io/test-weather-app">
+      <mapping url="http://localhost:3000" local-file="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -77,6 +81,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.test-weather-app" />
       <item itemvalue="JavaScript Debug.debug" />
       <item itemvalue="npm.start" />
     </list>
@@ -99,7 +104,7 @@
       <workItem from="1649485432478" duration="17197000" />
       <workItem from="1649563643187" duration="25677000" />
       <workItem from="1649646224995" duration="10166000" />
-      <workItem from="1649658042214" duration="3814000" />
+      <workItem from="1649658042214" duration="4742000" />
     </task>
     <servers />
   </component>
@@ -122,10 +127,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="430" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1649564595766" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649493620806">
+    <state x="763" y="308" key="#Web_Browsers" timestamp="1649662459224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649493620806" />
+    <state x="763" y="308" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1649662459224" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649662789538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649662789538" />
     <state x="715" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649486462954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -146,38 +155,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="628" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649488624956" />
-    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1649661724999">
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1649662701720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724999" />
-    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1649661724998">
+    <state width="1899" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701720" />
+    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1649662701720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724998" />
-    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1649661724998">
+    <state width="1899" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701720" />
+    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1649662701720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724998" />
-    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1649661724999">
+    <state width="1899" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701720" />
+    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1649662701720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724999" />
-    <state width="1899" height="328" key="GridCell.Tab.1.bottom" timestamp="1649661724999">
+    <state width="1899" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701720" />
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom" timestamp="1649662701721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724999" />
-    <state width="1899" height="328" key="GridCell.Tab.1.center" timestamp="1649661724999">
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701721" />
+    <state width="1899" height="328" key="GridCell.Tab.1.center" timestamp="1649662701721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724999" />
-    <state width="1899" height="328" key="GridCell.Tab.1.left" timestamp="1649661724999">
+    <state width="1899" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701721" />
+    <state width="1899" height="328" key="GridCell.Tab.1.left" timestamp="1649662701720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724999" />
-    <state width="1899" height="328" key="GridCell.Tab.1.right" timestamp="1649661724999">
+    <state width="1899" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701720" />
+    <state width="1899" height="328" key="GridCell.Tab.1.right" timestamp="1649662701721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649661724999" />
+    <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649662701721" />
     <state x="515" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1649661666913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -194,6 +203,12 @@
           <url>file://$PROJECT_DIR$/src/App.tsx</url>
           <line>85</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>81</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
