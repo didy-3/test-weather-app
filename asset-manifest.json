@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/test-weather-app/static/css/main.1b84783b.css",
+    "main.js": "/test-weather-app/static/js/main.01936707.js",
+    "static/js/787.d9312eb8.chunk.js": "/test-weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/03d.png": "/test-weather-app/static/media/03d.2b459cd4521e3e71b177.png",
+    "static/media/03n.png": "/test-weather-app/static/media/03n.2b459cd4521e3e71b177.png",
+    "static/media/04d.png": "/test-weather-app/static/media/04d.2b459cd4521e3e71b177.png",
+    "static/media/04n.png": "/test-weather-app/static/media/04n.2b459cd4521e3e71b177.png",
+    "static/media/10d.png": "/test-weather-app/static/media/10d.87257a72f37a63107a4c.png",
+    "static/media/10n.png": "/test-weather-app/static/media/10n.87257a72f37a63107a4c.png",
+    "static/media/11d.png": "/test-weather-app/static/media/11d.528ec175c58fe881351c.png",
+    "static/media/11n.png": "/test-weather-app/static/media/11n.528ec175c58fe881351c.png",
+    "static/media/02d.png": "/test-weather-app/static/media/02d.db144f17156b6a1525c1.png",
+    "static/media/02n.png": "/test-weather-app/static/media/02n.db144f17156b6a1525c1.png",
+    "static/media/01d.png": "/test-weather-app/static/media/01d.d70d1699b8a4ed493f7f.png",
+    "static/media/01n.png": "/test-weather-app/static/media/01n.d70d1699b8a4ed493f7f.png",
+    "static/media/09d.png": "/test-weather-app/static/media/09d.124fa28b4b4da335ea7e.png",
+    "static/media/09n.png": "/test-weather-app/static/media/09n.124fa28b4b4da335ea7e.png",
+    "static/media/13d.png": "/test-weather-app/static/media/13d.6c7e15d022c9a962e68a.png",
+    "static/media/13n.png": "/test-weather-app/static/media/13n.6c7e15d022c9a962e68a.png",
+    "static/media/50d.png": "/test-weather-app/static/media/50d.c6ef75775cb48997b919.png",
+    "static/media/50n.png": "/test-weather-app/static/media/50n.c6ef75775cb48997b919.png",
+    "index.html": "/test-weather-app/index.html",
+    "main.1b84783b.css.map": "/test-weather-app/static/css/main.1b84783b.css.map",
+    "main.01936707.js.map": "/test-weather-app/static/js/main.01936707.js.map",
+    "787.d9312eb8.chunk.js.map": "/test-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b84783b.css",
+    "static/js/main.01936707.js"
+  ]
+}
