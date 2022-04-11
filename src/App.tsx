@@ -17,7 +17,7 @@ function App() {
     const [username, setUsername] = useState<string | null>(JSON.parse(localStorage.getItem("username") as string))
     const [askUsername, setAskUsername] = useState<JSX.Element | null>(null)
     if (localStorage.getItem("username") === null) {
-        localStorage.setItem("username", JSON.stringify("Anonymous"))
+        localStorage.setItem("username", JSON.stringify("Anonymous") as string)
         setUsername(localStorage.getItem("username"))
     }
 
