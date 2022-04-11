@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43bbe08-ea2f-4171-bdb0-d56959deec76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/scss/weather-summary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/weather-summary.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <workItem from="1649485432478" duration="17197000" />
       <workItem from="1649563643187" duration="25677000" />
       <workItem from="1649646224995" duration="10166000" />
-      <workItem from="1649658042214" duration="5123000" />
+      <workItem from="1649658042214" duration="5920000" />
     </task>
     <servers />
   </component>
