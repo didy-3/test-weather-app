@@ -83,7 +83,7 @@ function App() {
     }, [])
 
     useEffect(() => {
-        if (username === "Anonymous")
+        if (username === "Anonymous" || username===null)
             setAskUsername(usernameModalPopup)
 
     }, [username])
