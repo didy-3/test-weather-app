@@ -1,0 +1,32 @@
+footer {
+  display: grid;
+  justify-items: center;
+  border-top: 1px solid gray;
+}
+footer .footer {
+  display: grid;
+  grid-auto-flow: column;
+  width: 80%;
+  place-items: center;
+  justify-self: center;
+  padding: 1em 0;
+}
+@keyframes wave-animation {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(20deg);
+  }
+  75% {
+    transform: rotate(-15deg);
+  }
+}
+footer .footer .footer-item a {
+  color: black;
+}
+footer .footer.footer:hover .hand {
+  animation: wave-animation 0.3s infinite;
+}
+
+/*# sourceMappingURL=footer.css.map */

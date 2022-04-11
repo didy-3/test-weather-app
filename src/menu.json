@@ -1,0 +1,34 @@
+[
+  {
+    "tabName": "forecast",
+    "functionality": null,
+    "children": [
+      {
+        "tabName": "today",
+        "functionality": "showForecast",
+        "children": []
+      } ,
+      {
+        "tabName": "week",
+        "functionality": "showForecast",
+        "children": []
+      }
+    ]
+  },
+  {
+    "tabName": "graphics",
+    "functionality": null,
+    "children": [
+      {
+        "tabName": "today",
+        "functionality": "drawGraphics",
+        "children": []
+      } ,
+      {
+        "tabName": "week",
+        "functionality": "drawGraphics",
+        "children": []
+      }
+    ]
+  }
+]

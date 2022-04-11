@@ -1,0 +1,58 @@
+.search-area-wrapper {
+  display: grid;
+  height: 50px;
+  padding-top: 1em;
+}
+.search-area-wrapper .search-area {
+  border-radius: 10px;
+  justify-self: center;
+  width: 100%;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  display: grid;
+  grid-template-columns: 75% 25%;
+}
+.search-area-wrapper .search-area .search-input input {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border: none;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  background-color: #f8f8f8;
+  padding-left: 1em;
+  outline: none;
+}
+.search-area-wrapper .search-area .search-input input:hover {
+  animation: unfading 0.5s forwards;
+}
+.search-area-wrapper .search-area .search-btn {
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  border: none;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(254, 207, 0, 0.8);
+}
+@keyframes unfading {
+  0% {
+    background-color: rgba(255, 255, 255, 0.6);
+  }
+  50% {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  100% {
+    background-color: white;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .search-area-wrapper {
+    height: 40px;
+  }
+  .search-area-wrapper .search-area {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=search.css.map */

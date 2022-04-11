@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c43bbe08-ea2f-4171-bdb0-d56959deec76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/weather-app-testTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/01d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/01n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/02d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/02n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/03d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/03n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/04d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/04n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/09d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/09n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/10d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/10n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/11d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/11n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/13d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/13n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/50d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/50n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ForecastDay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ForecastPickedDay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ForecastWeek.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Graphic.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LocationSearch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WeatherEntity.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WeatherSummary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/weather.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/menu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/footer.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/menu.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/popup.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/popup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/search.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/weather-summary.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/weather-summary.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/weather-summary.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/dateUtilities.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/weatherService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="SCSS File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27Y7zyQNR4Zt0ty4RiTY1gBTlcB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML&#10;JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Dasha\web-dev\weather-app-testTask\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dasha\web-dev\weather-app-testTask\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.debug" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c43bbe08-ea2f-4171-bdb0-d56959deec76" name="Default Changelist" comment="" />
+      <created>1649485431137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649485431137</updated>
+      <workItem from="1649485432478" duration="17197000" />
+      <workItem from="1649563643187" duration="25677000" />
+      <workItem from="1649646224995" duration="10166000" />
+      <workItem from="1649658042214" duration="2545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="430" key="#ESLint" timestamp="1649564595766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="430" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1649564595766" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649493620806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649493620806" />
+    <state x="715" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649486462954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1649486462954" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649585390871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649585390871" />
+    <state x="452" y="172" width="1468" height="808" key="#xdebugger.evaluate" timestamp="1649502002752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="172" width="1468" height="808" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1649502002752" />
+    <state width="720" height="466" key="DebuggerActiveHint" timestamp="1649590800259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="720" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1649590800259" />
+    <state x="628" y="298" key="EditFileWatcherDialog" timestamp="1649488624956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649488624956" />
+    <state width="1899" height="222" key="GridCell.Tab.0.bottom" timestamp="1649660161529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649660161529" />
+    <state width="1899" height="222" key="GridCell.Tab.0.center" timestamp="1649660161529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649660161529" />
+    <state width="1899" height="222" key="GridCell.Tab.0.left" timestamp="1649660161528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649660161528" />
+    <state width="1899" height="222" key="GridCell.Tab.0.right" timestamp="1649660161529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649660161529" />
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom" timestamp="1649658027645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1649658027644" />
+    <state width="1899" height="328" key="GridCell.Tab.1.center" timestamp="1649658027644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1649658027644" />
+    <state width="1899" height="328" key="GridCell.Tab.1.left" timestamp="1649658027644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1649658027644" />
+    <state width="1899" height="328" key="GridCell.Tab.1.right" timestamp="1649658027644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649658027644" />
+    <state x="515" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1649649932676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1649649932676" />
+    <state x="667" y="255" width="585" height="530" key="find.popup" timestamp="1649585826161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="255" width="585" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1649585826161" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>85</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>86</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.tsx</url>
+          <line>66</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

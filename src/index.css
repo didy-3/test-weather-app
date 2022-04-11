@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200;300;400;500;700;900&display=swap');
+body {
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background: linear-gradient(rgba(236, 236, 236,1), rgba(254, 207, 0,0.3) )no-repeat fixed;
+}
+
+ul,p{
+  margin:  0 ;
+  padding:  0 ;
+}
+li {
+  list-style: none;
+  margin: 0 ;
+  padding: 0 ;
+}
